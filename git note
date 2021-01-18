@@ -11,5 +11,13 @@
 # git push
 # git pull
 
+# git show
+# git log
+# git commit --amend
+# git diff [] []
+
+# git config alias.history '--pretty=oneline'
+-> git history  
+
 # touch day
 # mkdir
