@@ -1,0 +1,11 @@
+# git init (현재 디렉토리를 깃이 관리하는 디렉토리로 설정하고 .git 디렉토리 설정)
+# git config user.name "" (현재 사용자의 아이디를 설정)
+# git config user.email "" (현재 사용자의 이메일을 설정)
+
+# git add
+# git reset (staging area 에서 내림)
+# git status
+# git commit
+# git help
+# touch day
+# mkdir

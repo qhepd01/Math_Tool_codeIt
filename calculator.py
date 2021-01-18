@@ -4,10 +4,4 @@ def add(a,b):
 
 def substract(a,b):
     return a-b
-
-
-# git add
-# git status
-# git commit
-# touch day
-# mkdir
+    
