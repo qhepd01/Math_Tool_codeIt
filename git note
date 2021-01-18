@@ -16,6 +16,14 @@
 # git commit --amend
 # git diff [] []
 
+# git reset 
+    --soft
+    --mixed
+    --hard
+
+# git branch # 브랜치 만들기 
+
+
 # git config alias.history '--pretty=oneline'
 -> git history  
 
